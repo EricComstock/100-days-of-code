@@ -16,3 +16,10 @@ Learning about JavaScript Objects for Look Ups.
 Is there a light at the end of this tunnel?
 
 LINK: No link today.
+
+
+### Day 3: January 6, 2017
+
+I missed a day. Learned what JSON is... JavaScript Object Notation.
+
+Nothing seems to be sinking in yet.
