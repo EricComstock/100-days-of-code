@@ -23,3 +23,8 @@ LINK: No link today.
 I missed a day. Learned what JSON is... JavaScript Object Notation.
 
 Nothing seems to be sinking in yet.
+
+
+### Day 5: January 9, 2017
+
+I missed a day again. Building a website for a non-profit, One Bulb.
